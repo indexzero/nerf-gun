@@ -1,0 +1,34 @@
+{
+  "name": "nerf-gun",
+  "version": "1.0.0",
+  "description": "A tiny utility that returns nerf darts from URLs for npm.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "tap test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/indexzero/nerf-gun"
+  },
+  "keywords": [
+    "url",
+    "npm",
+    "nerf",
+    "dart"
+  ],
+  "homepage": "https://github.com/indexzero/nerf-gun",
+  "author": "Charlie Robbins <charlie.robbins@gmail.com>",
+  "contributors": [
+    "Forrest Norvell <forrest@npmjs.com>"
+  ],
+  "bugs": {
+    "url": "https://github.com/indexzero/nerf-gun/issues"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "tap": "~0.4.13"
+  }
+}
