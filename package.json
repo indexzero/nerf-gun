@@ -27,8 +27,8 @@
   "bugs": {
     "url": "https://github.com/indexzero/nerf-gun/issues"
   },
-  "license": "ISC",
+  "license": "Artistic-2.0",
   "devDependencies": {
-    "tap": "~0.4.13"
+    "tap": "^21.1.0"
   }
 }
