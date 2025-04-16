@@ -1,7 +1,7 @@
 {
   "name": "nerf-gun",
   "description": "A tiny utility that returns nerf darts from URLs for npm.",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "main": "index.js",
   "directories": {
     "test": "test"
